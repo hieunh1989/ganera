@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'TTCommonsExtraBold';
+    src: url('fonts/TTCommonsExtraBold.eot');
+    src: url('fonts/TTCommonsExtraBold.eot') format('embedded-opentype'),
+         url('fonts/TTCommonsExtraBold.woff2') format('woff2'),
+         url('fonts/TTCommonsExtraBold.woff') format('woff'),
+         url('fonts/TTCommonsExtraBold.ttf') format('truetype'),
+         url('fonts/TTCommonsExtraBold.svg#TTCommonsExtraBold') format('svg');
+}

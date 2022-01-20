@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'TTCommonsDemiBold';
+    src: url('fonts/TTCommonsDemiBold.eot');
+    src: url('fonts/TTCommonsDemiBold.eot') format('embedded-opentype'),
+         url('fonts/TTCommonsDemiBold.woff2') format('woff2'),
+         url('fonts/TTCommonsDemiBold.woff') format('woff'),
+         url('fonts/TTCommonsDemiBold.ttf') format('truetype'),
+         url('fonts/TTCommonsDemiBold.svg#TTCommonsDemiBold') format('svg');
+}

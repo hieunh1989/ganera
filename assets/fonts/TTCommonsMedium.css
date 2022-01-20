@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'TTCommonsMedium';
+    src: url('fonts/TTCommonsMedium.eot');
+    src: url('fonts/TTCommonsMedium.eot') format('embedded-opentype'),
+         url('fonts/TTCommonsMedium.woff2') format('woff2'),
+         url('fonts/TTCommonsMedium.woff') format('woff'),
+         url('fonts/TTCommonsMedium.ttf') format('truetype'),
+         url('fonts/TTCommonsMedium.svg#TTCommonsMedium') format('svg');
+}
